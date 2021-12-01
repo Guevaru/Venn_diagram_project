@@ -1,5 +1,4 @@
 from matplotlib_venn import venn2, venn2_circles
-from matplotlib_venn import venn3, venn3_circles
 from matplotlib import pyplot as plt
 
 sciGreats = {'Antoine-Laurent de Lavoisier', 'Isaac Newton',
